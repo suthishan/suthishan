@@ -6,12 +6,7 @@
     🔧   Git | Gitlab | Bitbucket
     🖥   UI / UX | Figma | Canva |
 
-
-- 👋 Hi, I’m @suthishan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
 
 <!---
 suthishan/suthishan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
