@@ -1,3 +1,11 @@
+🛠 Tech Stack
+    💻   Flutter | Angular | Nodejs | Python | PHP | CodeIgniter | Laravel
+    🌐   HTML | CSS | JavaScript | Bootstrap
+    🛢   MySQL | MongoDB | Postgres | MSSQL
+    🔧   Git | Gitlab | Bitbucket
+    🖥   UI / UX | Figma | Canva |
+
+
 - 👋 Hi, I’m @suthishan
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
